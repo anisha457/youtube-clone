@@ -21,21 +21,7 @@ A frontend clone of the YouTube interface built using **HTML, CSS, and JavaScrip
 
 - HTML5
 - CSS3 (Flexbox/Grid)
-- JavaScript (Vanilla)
 
----
-
-## 📸 Preview
-
-> Add screenshots here (optional)
-
----
-
-## 🚀 How to Run
-
-Just open `index.html` in your browser!
-
----
 
 ## 📬 Contact
 
