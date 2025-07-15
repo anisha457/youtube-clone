@@ -4,8 +4,8 @@ A frontend clone of the YouTube interface built using **HTML, CSS, and JavaScrip
 
 > 👩‍💻 Group Project by:  
 > - Anisha Goel  
-> - Aditya [link if any]  
-> - Maurya [link if any]
+> - Aditya   
+> - Aditya Maurya
 
 ---
 
